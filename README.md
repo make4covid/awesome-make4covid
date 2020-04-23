@@ -53,6 +53,17 @@ Need username/password access to non-public systems.
 # Videoconference Channels
 * https://zoom.us/j/489410971 --- 3d printing zoom
 
+# R&D
+Project underway:
+
+* PAPR pump.
+
+* PAPR hood.
+
+* N95 mask.
+
+* Intubation shield.
+
 # Uncategorized
 * https://docs.google.com/spreadsheets/d/1P70Ykhzgdj9P60HdTTRTmoLkcq7oafwMiRaZrXCaRu8/edit#gid=1054182574 --- COVID Maker Production google doc.
 
