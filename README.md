@@ -5,7 +5,9 @@ An Awesome list for the Make4Covid community.
 
 # Make4Covid Websites
 
-* https://www.make4covid.co/  --- Main Website
+* https://www.make4covid.co/  --- Main Make4Covid Website.
+
+* https://make4covid.mn.co/ --- Mighty Networks community discussion form.
 
 # Make4Covid Social Media
 
@@ -27,7 +29,9 @@ An Awesome list for the Make4Covid community.
 # Internal Tools
 Need username/password access to non-public systems.
 
-* https://airtable.com/ --- AirTable
+* https://airtable.com/ --- AirTable.
+
+* https://app.slack.com/client/T01067SFD7V/ --- Slack channel.
 
 # Development
 * https://docs.google.com/spreadsheets/d/1WKh5Hv5uQV3Xjj_LH8Uxi-yWPl-aTDJRgcJSee2jcZE/edit?ts=5e8d2d90#gid=0 --- Organizations and Companies we can use the name to support M4C
