@@ -13,9 +13,17 @@ An Awesome list for the Make4Covid community.
 
 * https://twitter.com/Make4Covid --- Twitter
 
+# Make4Covid Makers
+
+* https://sites.google.com/make4covid.co/startmaking-wip/sewing --- Sewing.
+
+* https://sites.google.com/make4covid.co/startmaking-wip/3d-print --- 3D printing.
+
+* https://sites.google.com/make4covid.co/startmaking-wip/laser-cutter --- Laser cutting.
+
 # Make4Covid Design Files
 
-* https://sites.google.com/make4covid.co/startmaking-wip/3d-print/designs --- 3dprinting
+* https://sites.google.com/make4covid.co/startmaking-wip/3d-print/designs --- 3d printing.
 
 * https://grabcad.com/make4covid.colorado-1 --- Grabcad.
 
