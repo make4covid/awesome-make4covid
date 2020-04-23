@@ -68,6 +68,20 @@ Project underway:
 
 * https://groups.google.com/a/make4covid.co/forum/#!forum/dropoff --- Google dropoff group.
 
+# Software / SaaS in Use
+
+* AirTable.
+
+* Github.
+
+* Google Docs.
+
+* Slack.
+
+* Zoom.
+
+* Mighty Networks.
+
 # Awesome
 An Awesome list for the Make4Covid community.
 
