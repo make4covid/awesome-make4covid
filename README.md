@@ -1,8 +1,3 @@
-# Awesome
-An Awesome list for the Make4Covid community.
-
-* https://github.com/topics/awesome
-
 # Make4Covid Websites
 
 * https://www.make4covid.co/  --- Main Make4Covid Website.
@@ -72,6 +67,11 @@ Project underway:
 * https://docs.google.com/document/d/1gDPAef3W9WxHS3bWNheo5l6K8LXkq9R7pHL00-J0J94/edit# --- Organizer standup.
 
 * https://groups.google.com/a/make4covid.co/forum/#!forum/dropoff --- Google dropoff group.
+
+# Awesome
+An Awesome list for the Make4Covid community.
+
+* https://github.com/topics/awesome
 
 # Sharing
 CC by SA 4.0 International. Copyright 2020, Make4Covid LCA
