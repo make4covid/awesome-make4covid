@@ -7,7 +7,7 @@ An Awesome list for the Make4Covid community.
 
 * https://www.make4covid.co/  --- Main Make4Covid Website.
 
-* https://make4covid.mn.co/ --- Mighty Networks community discussion form.
+* https://make4covid.mn.co/ --- Mighty Networks community discussion forum.
 
 # Make4Covid Social Media
 
