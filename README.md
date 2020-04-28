@@ -27,7 +27,7 @@
 # Make4Covid Onboarding Forms
 * https://www.make4covid.co/manufacturers --- Manufacturers Intake
 
-* https://sites.google.com/make4covid.co/startmaking-wip/packing-pickup-dropoff --- Drop off form (current?)
+* https://sites.google.com/make4covid.co/startmaking-wip/finished/drop-off --- Drop off form (current?)
 
 * https://drive.google.com/drive/folders/13iHVh1y9hGSjiOd6ioFakeQhI0gflCpI --- Supply Chain Google drive.
 
